@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Envíos</string>
+
+    <string name="title_activity_enter_code">Ingrese el código</string>
+    <string name="title_activity_map">Mapa de Envíos</string>
+
+
+    <string name="activity_enter_code_message">Ingrese aquí su código</string>
+    <string name="activity_enter_code_submit_button">Ok</string>
+
+
+    <string name="activity_map_marker_snippet">
+        Haga click aquí para iniciar el modo navegación</string>
+
+</resources>
